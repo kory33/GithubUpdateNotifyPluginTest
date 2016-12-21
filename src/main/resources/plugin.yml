@@ -1,0 +1,3 @@
+name: TestGithubNotificationPlugin
+main: com.github.kory33.testgithubnotificationplugin.TestPlugin
+version: 0.0.1-SNAPSHOT
